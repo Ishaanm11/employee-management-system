@@ -1,3 +1,4 @@
 *.class
 employees.db
 employees.txt
+*.jar
